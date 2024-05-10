@@ -1,7 +1,7 @@
 {
 	"author": "J.Fechner",
-	"name": "WebAPK",
-	"short_name": "abskmj WebAPK",
+	"name": "Urban Company",
+	"short_name": "Urban Company",
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
 	"start_url": "https://abskmj.github.io/WebAPK/",
