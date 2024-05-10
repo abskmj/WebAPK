@@ -1,16 +1,16 @@
 {
 	"author": "J.Fechner",
-	"name": "Urban Company",
-	"short_name": "Urban Company",
+	"name": "Reddit",
+	"short_name": "Reddit",
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
-	"start_url": "https://abskmj.github.io/WebAPK/r?url=https://www.urbancompany.com",
+	"start_url": "https://abskmj.github.io/WebAPK/r?url=https://www.reddit.com",
 	"display": "standalone",
 	"background_color": "grey",
 	"theme_color": "black",
 	"icons": [
 		{
-			"src": "https://play-lh.googleusercontent.com/axx68Ova4QcYBxfuXy5MQQpW2WUd_XbQtqkHLZewNn4II1Imkr8yc5UL9HwP80XS35o",
+			"src": "https://play-lh.googleusercontent.com/aSuyYxOTIoGGSNuZRIMkveqZd9aAdEGzZMrH5Yl5UaOkZ0yxLKne0JmhcLXWmQ3Av7A",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
 			"type": "image/png"
 		}
