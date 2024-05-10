@@ -5,7 +5,7 @@
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
 	"start_url": "https://abskmj.github.io/WebAPK/r",
-	"display": "standalone",
+	"display": "fullscreen",
 	"background_color": "grey",
 	"theme_color": "black",
 	"icons": [
