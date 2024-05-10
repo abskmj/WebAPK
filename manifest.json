@@ -1,17 +1,16 @@
 {
 	"author": "J.Fechner",
-	"name": "WebAPK",
-	"short_name": "Chrome WebAPK",
+	"name": "Urban Company Web",
+	"short_name": "Urban Company",
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
-	"start_url": "/WebAPK/",
-	"scope": "/WebAPK/",
+	"start_url": "https://www.urbancompany.com/",
 	"display": "standalone",
 	"background_color": "grey",
 	"theme_color": "black",
 	"icons": [
 		{
-			"src": "/WebAPK/logo.png",
+			"src": "https://play-lh.googleusercontent.com/axx68Ova4QcYBxfuXy5MQQpW2WUd_XbQtqkHLZewNn4II1Imkr8yc5UL9HwP80XS35o",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
 			"type": "image/png"
 		}
