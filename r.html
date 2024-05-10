@@ -2,10 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Redirecting...</title>
-</head>
-<body>
-    <h1>Redirecting to the specified URL...</h1>
     <script>
 	const urlParams = new URLSearchParams( window.location.search);
         var redirectUrl = urlParams.get('url');
@@ -15,5 +11,7 @@
             window.location.href = redirectUrl;
         }
     </script>
+</head>
+<body>
 </body>
 </html>
