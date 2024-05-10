@@ -4,7 +4,8 @@
 	"short_name": "Urban Company",
 	"description": "Simple template for a chrome WebAPK.",
 	"orientation": "portrait",
-	"start_url": "https://abskmj.github.io/WebAPK/",
+	"start_url": "https://abskmj.github.io/WebAPK/r.html",
+	"scope": "https://www.urbancompany.com"
 	"display": "standalone",
 	"background_color": "grey",
 	"theme_color": "black",
