@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
-		<meta name="Description" content="This is a simple chrome WebAPK template.">
-		<title>WebAPK</title>
-		<link rel="icon" type="image/png" href="logo.png">
-		<link rel="manifest" href="manifest.json">
-		<script type="text/javascript">
-		      window.location.href = 'https://www.urbancompany.com/'
-		</script>
-	</head>
-	<body>
-		<h1>
-			<span>Chrome WebAPK</span>
-		</h1>
-		<p>This is a simple chrome WebAPK template.</p>
-		<span id="connection"><abbr title="You are online!">&#128246;</abbr></span>
-		<script src="js/jquery.min.js"></script>
-		<script src="js/main.js"></script>		
-	</body>
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <h1>Redirecting to the specified URL...</h1>
+    <script>
+	const urlParams = new URLSearchParams( window.location.search);
+        var redirectUrl = urlParams.get('url');
+
+        // Redirect to the specified URL
+        if (redirectUrl) {
+            window.location.href = redirectUrl;
+        }
+    </script>
+</body>
 </html>
