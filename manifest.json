@@ -1,25 +1,29 @@
 {
-	"author": "J.Fechner",
-	"name": "Urban Company Web",
-	"short_name": "Urban Company",
-	"description": "Simple template for a chrome WebAPK.",
-	"orientation": "portrait",
-	"start_url": "https://www.urbancompany.com/",
-	"display": "standalone",
-	"background_color": "grey",
-	"theme_color": "black",
-	"icons": [
-		{
-			"src": "https://play-lh.googleusercontent.com/axx68Ova4QcYBxfuXy5MQQpW2WUd_XbQtqkHLZewNn4II1Imkr8yc5UL9HwP80XS35o",
-			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
-			"type": "image/png"
-		}
-	],
-	"manifest_version": 2,
-	"version": "0.1",
-	"applications": {
-		"gecko": {
-			"id": "addon@example.com"
-		}
-	}
+  "name": "Reddit",
+  "short_name": "Reddit",
+  "start_url": "https://www.reddit.com/",
+  "display": "standalone",
+  "display_override": ["minimal-ui", "window-controls-overlay"],
+  "theme_color": "#ff4500",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+      "id": "com.reddit.frontpage"
+    }
+  ]
 }
