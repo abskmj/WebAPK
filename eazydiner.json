@@ -1,0 +1,53 @@
+{
+    "author": "abskmj",
+    "name": "EazyDiner",
+    "short_name": "EazyDiner",
+    "description": "EazyDiner",
+    "orientation": "portrait",
+    "start_url": "https://abskmj.github.io/WebAPK/r?url=https://www.eazydiner.com/",
+    "display": "standalone",
+    "background_color": "#eee",
+    "theme_color": "#ff4612",
+    "icons": [
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI",
+            "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w32-h32",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w192-h192",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w512-h512",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w32-h32",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w192-h192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/QgmvR6E1bSSHIX0PATGM-B6l5yGIE-3rLBnuoOKYoddIQPM0WptNjdT5lmdS2LmxEGI=w512-h512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
