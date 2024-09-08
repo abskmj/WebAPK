@@ -1,0 +1,54 @@
+{
+    "author": "abskmj",
+    "name": "Myntra Web",
+    "short_name": "Myntra Web",
+    "description": "Myntra Web",
+    "orientation": "portrait",
+    "start_url": "https://abskmj.github.io/WebAPK/myntra/r",
+    "scope": "https://abskmj.github.io/WebAPK/myntra/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff3f6c",
+    "icons": [
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
+            "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w32-h32",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w192-h192",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w512-h512",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w32-h32",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w192-h192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY=w512-h512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
