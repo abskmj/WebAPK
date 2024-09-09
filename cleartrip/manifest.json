@@ -1,0 +1,22 @@
+{
+    "author": "abskmj",
+    "name": "Cleartrip Web",
+    "start_url": "https://abskmj.github.io/WebAPK/cleartrip/go",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://yt3.googleusercontent.com/JbNEHwFr_71EsgTzcEHo7_NxUaw6aIEXLj2qtn1is2GBrW1ZsayjVokXzaplrImnLV3PMOrhsw",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "https://yt3.googleusercontent.com/JbNEHwFr_71EsgTzcEHo7_NxUaw6aIEXLj2qtn1is2GBrW1ZsayjVokXzaplrImnLV3PMOrhsw",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
