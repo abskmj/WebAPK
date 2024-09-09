@@ -9,12 +9,14 @@
         {
             "src": "https://yt3.googleusercontent.com/JbNEHwFr_71EsgTzcEHo7_NxUaw6aIEXLj2qtn1is2GBrW1ZsayjVokXzaplrImnLV3PMOrhsw",
             "type": "image/png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "purpose": "maskable"
         },
         {
             "src": "https://yt3.googleusercontent.com/JbNEHwFr_71EsgTzcEHo7_NxUaw6aIEXLj2qtn1is2GBrW1ZsayjVokXzaplrImnLV3PMOrhsw",
             "type": "image/png",
-            "sizes": "192x192"
+            "sizes": "192x192",
+            "purpose": "maskable"
         }
     ],
     "manifest_version": 2,
