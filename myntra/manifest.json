@@ -2,13 +2,9 @@
     "author": "abskmj",
     "name": "Myntra Web",
     "start_url": "https://abskmj.github.io/WebAPK/myntra/go",
-    "display": "fullscreen",
-    "display_override": [
-        "fullscreen",
-        "minimal-ui"
-    ],
+    "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#ff3f6c",
+    "theme_color": "#ffffff",
     "icons": [
         {
             "src": "https://yt3.googleusercontent.com/rhKNyzHI-SNrhQ5MwDujVRKxK0oLe9GP794xzGb-YsfyWSybA8NkV2SoMTVF3nRLkz9vIqhD",
