@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "Amazon Web",
+    "start_url": "https://abskmj.github.io/WebAPK/amazon/go",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#232f3e",
+    "icons": [
+        {
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kjuCmU01GUt3FSEOuScKBOW3Prqc-pvQojRqeIGcA2wxY",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kjuCmU01GUt3FSEOuScKBOW3Prqc-pvQojRqeIGcA2wxY",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
