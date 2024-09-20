@@ -1,19 +1,19 @@
 {
     "author": "abskmj",
-    "name": "Tata CLiQ Web",
-    "start_url": "https://abskmj.github.io/WebAPK/tatacliq/go?v=1.0",
+    "name": "AJIO Web",
+    "start_url": "https://abskmj.github.io/WebAPK/amazon/go?v=1.0",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kKbQerGvBG-38VsgmZdx5zjHvLUp5cRJg183foFaJkBkI",
+            "src": "https://yt3.googleusercontent.com/GCxx7WOY2ZpzNXKRxsgAqUvrj2uWKZapMmM7OY70S9p7bPUArBmWR-luasbvKRlxCICF0tspAFA",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "maskable any"
         },
         {
-            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kKbQerGvBG-38VsgmZdx5zjHvLUp5cRJg183foFaJkBkI",
+            "src": "https://yt3.googleusercontent.com/GCxx7WOY2ZpzNXKRxsgAqUvrj2uWKZapMmM7OY70S9p7bPUArBmWR-luasbvKRlxCICF0tspAFA",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "maskable any"
