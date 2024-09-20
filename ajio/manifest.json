@@ -1,7 +1,7 @@
 {
     "author": "abskmj",
     "name": "AJIO Web",
-    "start_url": "https://abskmj.github.io/WebAPK/amazon/go?v=1.0",
+    "start_url": "https://abskmj.github.io/WebAPK/ajio/go?v=1.0",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
