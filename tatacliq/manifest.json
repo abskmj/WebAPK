@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "Tata Cliq Web",
+    "start_url": "https://abskmj.github.io/WebAPK/tatacliq/go?v=1.0",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kKbQerGvBG-38VsgmZdx5zjHvLUp5cRJg183foFaJkBkI",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://yt3.googleusercontent.com/ytc/AIdro_kKbQerGvBG-38VsgmZdx5zjHvLUp5cRJg183foFaJkBkI",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
