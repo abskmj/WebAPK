@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "FirstCry Web",
+    "start_url": "https://abskmj.github.io/WebAPK/firstcry/go?v=1.0",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://play-lh.googleusercontent.com/MnuZ2c-iJgXdlyjs1lMAzBR6meMfkSBmPAebq9LGnVi83NNGpd0dPMGS5sJQS_EO_w",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://play-lh.googleusercontent.com/MnuZ2c-iJgXdlyjs1lMAzBR6meMfkSBmPAebq9LGnVi83NNGpd0dPMGS5sJQS_EO_w",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
