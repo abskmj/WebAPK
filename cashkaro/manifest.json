@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "CashKaro Web",
+    "start_url": "https://abskmj.github.io/WebAPK/cashkaro/go?v=1.0",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2f3c97",
+    "icons": [
+        {
+            "src": "https://yt3.googleusercontent.com/AXz3xxu32kFpFtZgquo4awAQpE8BvcJo2yCqao2SBU2_d1rDTVx1m2fbJ4qb23Y14YvVSh_0Xw",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://yt3.googleusercontent.com/AXz3xxu32kFpFtZgquo4awAQpE8BvcJo2yCqao2SBU2_d1rDTVx1m2fbJ4qb23Y14YvVSh_0Xw",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
