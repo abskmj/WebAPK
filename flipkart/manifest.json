@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "Flipkart Web",
+    "start_url": "https://abskmj.github.io/WebAPK/flipkart/go?v=1.0",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://images.seeklogo.com/logo-png/31/1/flipkart-logo-png_seeklogo-318406.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://images.seeklogo.com/logo-png/31/1/flipkart-logo-png_seeklogo-318406.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
