@@ -1,6 +1,6 @@
 {
     "author": "abskmj",
-    "name": "Amazon Now Web",
+    "name": "Amazon Now",
     "start_url": "https://abskmj.github.io/WebAPK/now/go?v=1.0",
     "display": "standalone",
     "background_color": "#ffffff",
