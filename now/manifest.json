@@ -1,0 +1,24 @@
+{
+    "author": "abskmj",
+    "name": "Amazon Now Web",
+    "start_url": "https://abskmj.github.io/WebAPK/now/go?v=1.0",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://abskmj.github.io/WebAPK/now/logo.jpg",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://abskmj.github.io/WebAPK/now/logo.jpg",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "manifest_version": 2,
+    "version": "0.1"
+}
